@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"runtime/debug"
 
-	"gopkg.in/andviro/noodle.v2"
+	"github.com/go-noodle/noodle"
 )
 
 // RecoverError contains the original error value and a stack trace

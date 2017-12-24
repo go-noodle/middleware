@@ -1,7 +1,7 @@
 package middleware_test
 
 import (
-	mw "gopkg.in/andviro/noodle.v2/middleware"
+	mw "github.com/go-noodle/middleware"
 	"gopkg.in/tylerb/is.v1"
 
 	"bytes"

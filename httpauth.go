@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"gopkg.in/andviro/noodle.v2"
+	"github.com/go-noodle/noodle"
 )
 
 // HTTPAuth is a middleware factory function that accepts the authentication realm

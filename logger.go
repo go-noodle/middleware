@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"gopkg.in/andviro/noodle.v2"
+	"github.com/go-noodle/noodle"
 )
 
 var writers sync.Pool

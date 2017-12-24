@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"gopkg.in/andviro/noodle.v2"
-	"gopkg.in/andviro/noodle.v2/store"
+	"github.com/go-noodle/noodle"
+	"github.com/go-noodle/store"
 	"net/http"
 )
 
